@@ -8,9 +8,9 @@ var Countdown = require('Countdown');
 
 // describe('', () => {
 //
-// it('', ()=>{
+//     it('', ()=>{
 //
-// });
+//     });
 //
 // });
 
@@ -18,9 +18,9 @@ var Countdown = require('Countdown');
 //
 // });
 
-//  // it('', ()=>{
-// //
-// // });
+    //  it('', ()=>{
+    //
+    // });
 
 describe('Countdown', () => {
 
