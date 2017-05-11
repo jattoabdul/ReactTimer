@@ -6,21 +6,6 @@ var TestUtils = require('react-addons-test-utils');
 
 var Countdown = require('Countdown');
 
-// describe('', () => {
-//
-//     it('', ()=>{
-//
-//     });
-//
-// });
-
-// describe('', () => {
-//
-// });
-
-    //  it('', ()=>{
-    //
-    // });
 
 describe('Countdown', () => {
 

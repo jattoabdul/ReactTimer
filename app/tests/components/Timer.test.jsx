@@ -6,14 +6,6 @@ var TestUtils = require('react-addons-test-utils');
 
 var Timer = require('Timer');
 
-// describe('', () => {
-//
-//     it('', ()=>{
-//
-//     });
-//
-// });
-
 
 describe('Timer', () => {
 

@@ -1,1 +1,1 @@
-React BoilerPlate App
+React Timer App built by Jatto using React.js
